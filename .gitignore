@@ -14,3 +14,6 @@ __pycache__/
 
 # Local environment variables
 .env
+
+# Game runtime artifacts
+vector_snake_scores.json

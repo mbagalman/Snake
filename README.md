@@ -35,17 +35,17 @@ A polished Snake game implementation demonstrating intermediate-to-advanced game
 ### Prerequisites
 ```bash
 python >= 3.10
-pygame >= 2.0.0
+pygame-ce >= 2.0.0
 ```
 
 ### Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd vector-snake
+git clone https://github.com/mbagalman/Snake.git
+cd Snake
 
 # Install dependencies
-pip install pygame
+pip install -r requirements.txt
 
 # Run the game
 python vector_snake_v3_5_educational.py
